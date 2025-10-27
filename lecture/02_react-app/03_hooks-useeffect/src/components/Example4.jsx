@@ -52,5 +52,4 @@ function Example4() {
 
 export default Example4;
 
-
-matchMedia
+matchMedia;
