@@ -1,4 +1,4 @@
-import React, { useReducer } from "react"; // 🌟🌟🌟 useReducer를 추가했습니다! 🌟🌟🌟
+import React, { useReducer } from "react"; // 
 //상태 변경 로직을 컴포넌트 외부 함수(reducer)로 관리
 //state를 즉정 액션에 따라 관리
 
