@@ -5,7 +5,6 @@ import { createRoot } from "react-dom/client"; // 🌟 React DOM 함수들도 im
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    {/* 🌟 오류 해결: BrowserRouter로 수정 */}
     <BrowserRouter>
       <App />
     </BrowserRouter>
